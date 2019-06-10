@@ -1,5 +1,7 @@
 # Git For Noobs
 
+![Git Picture](https://cdn-images-1.medium.com/fit/t/1600/480/1*S-_fv45WT4MgqtnPVsxtHQ.jpeg)
+
 The more you evolve in the world of technology, the more you will hear about 'repository' or 'deposit' or 'git' or 'hub'_, in short terms that seem to come from another dimension, but which, believe me are extremely simple.
 First of all, it is necessary to make the difference in *git* and the other ennumerated ones; indeed, they work so synchro, and are so used together that one would let it be believed that it is the same thing.
 
