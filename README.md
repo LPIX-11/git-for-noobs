@@ -58,7 +58,7 @@ HOWEVER you have not yet said how to save what you did. It's very simple too, yo
 Now as said above even if you have the history of the evolution of your work on each file well organized and everything, your project is always on your machine and the changes are visible only by you.
 To put your project on a remote server (here a repos) you go on a:
 
-* [Github](https://github.com/) (conseil)
+* [Github](https://github.com/) (advise)
 * [BitBucket](https://bitbucket.org/)
 * [Gitlab](https://gitlab.com/)
 * ...
