@@ -87,4 +87,4 @@ Very important too, if we work with others, to recover the changes that a member
 
     git will first test if there have been any changes to the projects you do not have yet, and if so, it will create a savepoint (version) and then update your project
 
-That's ^ _ ^
+That's it ^ _ ^
